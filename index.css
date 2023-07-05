@@ -8,3 +8,13 @@ p{
     border-radius: 5px;
 
 }
+.list{
+    border: 5px solid wheat;
+    display: inline-block;
+    width: 250px;
+    text-decoration: wavy;
+}
+*{
+    background-image: url('../Image/IMG_20201111_174545.jpg');
+    background-size: cover;
+}
